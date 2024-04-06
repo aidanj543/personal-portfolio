@@ -269,6 +269,17 @@ body {
     width: 100%;
 }
 
+.about {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+
+
 @keyframes showRight {
     100% {
         width: 0;
